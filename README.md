@@ -1,6 +1,6 @@
 ### 👋 Hi!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+aleksandramosyagina's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+aleksandra's+Github+Profile..)](https://git.io/typing-svg)
 
 <div id="header" align="start">
   <img src="https://media3.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=ecf05e4797jzdr10y272g8lggwt7ikdxmfvm2mqx3zrbrc9c&rid=giphy.gif&ct=g" width="220"/>
@@ -10,10 +10,6 @@
 - 🎓 I’m currently learning ReactJS and JS improvements
 - 📖 I have a <a href="https://t.me/frontend_queen" target="blank">channel</a> about frontend development
 - 💬 Ask me about programming, investments, recycling and studying English 
-
-### Connect with me:
-- <a href="https://t.me/sasha_mosyagina" target="blank">Telegram</a>
-- <a href="mailto:a.s.mosyagina@gmail.com" target="blank">E-mail</a>
 
 
 ### Technologies:
