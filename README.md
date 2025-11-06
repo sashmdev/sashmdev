@@ -6,8 +6,7 @@
   <img src="https://media3.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=ecf05e4797jzdr10y272g8lggwt7ikdxmfvm2mqx3zrbrc9c&rid=giphy.gif&ct=g" width="220"/>
 </div>
 
-- 💻 I’m currently working on JS, HTML, CSS
-- 🎓 I’m currently learning ReactJS and JS improvements
+- 💻 I’m currently working on JS, HTML, CSS, React, TypeScript
 - 📖 I have a <a href="https://t.me/frontend_queen" target="blank">channel</a> about frontend development
 - 💬 Ask me about programming, investments, recycling and studying English 
 
